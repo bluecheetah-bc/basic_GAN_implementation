@@ -32,7 +32,7 @@ After training, you can generate new images using the generator network. You can
 - 8)Visualization of Results:
 Visualize the training results by examining how closely the generated images resemble real images. This can be done by comparing generated images with real images visually.
 
-<b>In this implementation, we used Tensorflow deep learning library and Mist dataset. Some generated images are in gan_images directory</b>
+<b>In this implementation, we used TENSORFLOW deep learning library and MNIST dataset. Some generated images are in gan_images directory</b>
 ### Built With
 
 * ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
