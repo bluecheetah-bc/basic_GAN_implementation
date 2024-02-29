@@ -14,7 +14,7 @@ Start by importing the necessary libraries to build the GAN. You can use deep le
 - 2)Loading the Dataset:
 Choose and load a dataset for training the GAN. Common datasets include MNIST, CIFAR-10, etc.
 
-- 3=Creating the Discriminator Network:
+- 3)Creating the Discriminator Network:
 First, create the discriminator network. This network is typically a Convolutional Neural Network (CNN) that discriminates between real and fake images.
 
 - 4)Creating the Generator Network:
